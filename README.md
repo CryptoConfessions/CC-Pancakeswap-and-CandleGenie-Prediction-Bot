@@ -2,9 +2,10 @@
 ![C01EAC55-4116-474E-95B6-26FD0A0EADAF](https://user-images.githubusercontent.com/99803952/154789874-10b6152e-1f04-47c7-aaa2-c5779d74819a.jpeg)
 ![B5F9E83B-01A9-42D0-B715-CE6794523036](https://user-images.githubusercontent.com/99803952/154789876-419eb855-4668-4605-a867-3c066ece8902.jpeg)
 # CC-Pancakeswap-and-CandleGenie-Prediction-Bot
+
 CandleGenie and Pancakeswap Prediction Bot
 
-
+Message via Telegram if interested!!
 
 Installation
 
